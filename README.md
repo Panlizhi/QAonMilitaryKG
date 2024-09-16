@@ -9,7 +9,7 @@
 &emsp;2，实现基于mongodb的军事领域知识库的自动问答。  
 
 # 项目框架
-![image](https://github.com/liuhuanyong/QAonMilitaryKG/blob/master/image/schema.png)
+![image](https://github.com/Panlizhi/QAonMilitaryKG/blob/master/image/schema.png)
 
 # 项目构成
 
@@ -26,8 +26,8 @@
 
 
 # 2, 数据样式
-![image](https://github.com/liuhuanyong/QAonMilitaryKG/blob/master/image/data_sample1.png)
-![image](https://github.com/liuhuanyong/QAonMilitaryKG/blob/master/image/data_sample2.png)
+![image](https://github.com/Panlizhi/QAonMilitaryKG/blob/master/image/data_sample1.png)
+![image](https://github.com/Panlizhi/QAonMilitaryKG/blob/master/image/data_sample2.png)
 
 # 3, 问句类型
 
@@ -60,7 +60,7 @@
 &emsp;ps：若需要进行自我重新构建数据，可运行collect_data.py。  
 
 # 项目结果
-![image](https://github.com/liuhuanyong/QAonMilitaryKG/blob/master/image/res_example1.png)
+![image](https://github.com/Panlizhi/QAonMilitaryKG/blob/master/image/res_example1.png)
 
 
 # 总结
